@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TienLen_Client", "WindowsFormsApp2\TienLen_Client.csproj", "{069FDC00-6096-42AB-9392-360E5E4557C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{069FDC00-6096-42AB-9392-360E5E4557C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{069FDC00-6096-42AB-9392-360E5E4557C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{069FDC00-6096-42AB-9392-360E5E4557C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{069FDC00-6096-42AB-9392-360E5E4557C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67797C1E-E36F-43CB-BEB2-8EA5C8DB932B}
+	EndGlobalSection
+EndGlobal

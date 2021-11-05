@@ -1,0 +1,8 @@
+﻿xử lý 1 thằng out
+win
+bắt đầu ván mới thì clear bài đang giữ
+
+thử clear bufer clientmodel
+
+
+2, tứ quý

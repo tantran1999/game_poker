@@ -1,0 +1,12 @@
+C:\Users\caoph\Desktop\ProjectTienLen\TienLen-Server-database\LoadBalancer\bin\Debug\LoadBalancer.exe
+C:\Users\caoph\Desktop\ProjectTienLen\TienLen-Server-database\LoadBalancer\bin\Debug\LoadBalancer.pdb
+C:\Users\caoph\Desktop\ProjectTienLen\TienLen-Server-database\LoadBalancer\obj\Debug\LoadBalancer.csprojAssemblyReference.cache
+C:\Users\caoph\Desktop\ProjectTienLen\TienLen-Server-database\LoadBalancer\obj\Debug\LoadBalancer.csproj.CoreCompileInputs.cache
+C:\Users\caoph\Desktop\ProjectTienLen\TienLen-Server-database\LoadBalancer\obj\Debug\LoadBalancer.exe
+C:\Users\caoph\Desktop\ProjectTienLen\TienLen-Server-database\LoadBalancer\obj\Debug\LoadBalancer.pdb
+C:\Users\caoph\Desktop\ProjectTienLen\TienLen-Server-database - lb - bot\LoadBalancer\bin\Debug\LoadBalancer.exe
+C:\Users\caoph\Desktop\ProjectTienLen\TienLen-Server-database - lb - bot\LoadBalancer\bin\Debug\LoadBalancer.pdb
+C:\Users\caoph\Desktop\ProjectTienLen\TienLen-Server-database - lb - bot\LoadBalancer\obj\Debug\LoadBalancer.csprojAssemblyReference.cache
+C:\Users\caoph\Desktop\ProjectTienLen\TienLen-Server-database - lb - bot\LoadBalancer\obj\Debug\LoadBalancer.csproj.CoreCompileInputs.cache
+C:\Users\caoph\Desktop\ProjectTienLen\TienLen-Server-database - lb - bot\LoadBalancer\obj\Debug\LoadBalancer.exe
+C:\Users\caoph\Desktop\ProjectTienLen\TienLen-Server-database - lb - bot\LoadBalancer\obj\Debug\LoadBalancer.pdb

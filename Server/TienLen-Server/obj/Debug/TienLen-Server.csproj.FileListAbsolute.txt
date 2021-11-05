@@ -1,0 +1,28 @@
+C:\Users\caoph\Desktop\TienLen-Server\TienLen-Server\bin\Debug\TienLen-Server.exe
+C:\Users\caoph\Desktop\TienLen-Server\TienLen-Server\bin\Debug\TienLen-Server.pdb
+C:\Users\caoph\Desktop\TienLen-Server\TienLen-Server\obj\Debug\TienLen-Server.csprojAssemblyReference.cache
+C:\Users\caoph\Desktop\TienLen-Server\TienLen-Server\obj\Debug\TienLen-Server.csproj.CoreCompileInputs.cache
+C:\Users\caoph\Desktop\TienLen-Server\TienLen-Server\obj\Debug\TienLen-Server.exe
+C:\Users\caoph\Desktop\TienLen-Server\TienLen-Server\obj\Debug\TienLen-Server.pdb
+C:\Users\caoph\Desktop\TienLen\TienLen-Server\TienLen-Server\bin\Debug\TienLen-Server.exe
+C:\Users\caoph\Desktop\TienLen\TienLen-Server\TienLen-Server\bin\Debug\TienLen-Server.pdb
+C:\Users\caoph\Desktop\TienLen\TienLen-Server\TienLen-Server\obj\Debug\TienLen-Server.csprojAssemblyReference.cache
+C:\Users\caoph\Desktop\TienLen\TienLen-Server\TienLen-Server\obj\Debug\TienLen-Server.csproj.CoreCompileInputs.cache
+C:\Users\caoph\Desktop\TienLen\TienLen-Server\TienLen-Server\obj\Debug\TienLen-Server.exe
+C:\Users\caoph\Desktop\TienLen\TienLen-Server\TienLen-Server\obj\Debug\TienLen-Server.pdb
+C:\Users\caoph\Desktop\ProjectTienLen\TienLen\TienLen-Server\TienLen-Server\obj\Debug\TienLen-Server.csprojAssemblyReference.cache
+C:\Users\caoph\Desktop\ProjectTienLen\TienLen\TienLen-Server\TienLen-Server\obj\Debug\TienLen-Server.csproj.CoreCompileInputs.cache
+C:\Users\caoph\Desktop\ProjectTienLen\TienLen\TienLen-Server\TienLen-Server\obj\Debug\TienLen-Server.exe
+C:\Users\caoph\Desktop\ProjectTienLen\TienLen\TienLen-Server\TienLen-Server\obj\Debug\TienLen-Server.pdb
+C:\Users\caoph\Desktop\ProjectTienLen\TienLen-Server-database\TienLen-Server\obj\Debug\TienLen-Server.csprojAssemblyReference.cache
+C:\Users\caoph\Desktop\ProjectTienLen\TienLen-Server-database\TienLen-Server\obj\Debug\TienLen-Server.csproj.CoreCompileInputs.cache
+C:\Users\caoph\Desktop\ProjectTienLen\TienLen-Server-database\TienLen-Server\obj\Debug\TienLen-Server.exe
+C:\Users\caoph\Desktop\ProjectTienLen\TienLen-Server-database\TienLen-Server\obj\Debug\TienLen-Server.pdb
+C:\Users\caoph\Desktop\ProjectTienLen\TienLen-Server-database\TienLen-Server\bin\Debug\TienLen-Server.exe
+C:\Users\caoph\Desktop\ProjectTienLen\TienLen-Server-database\TienLen-Server\bin\Debug\TienLen-Server.pdb
+C:\Users\caoph\Desktop\ProjectTienLen\TienLen-Server-database - lb - bot\TienLen-Server\bin\Debug\TienLen-Server.exe
+C:\Users\caoph\Desktop\ProjectTienLen\TienLen-Server-database - lb - bot\TienLen-Server\bin\Debug\TienLen-Server.pdb
+C:\Users\caoph\Desktop\ProjectTienLen\TienLen-Server-database - lb - bot\TienLen-Server\obj\Debug\TienLen-Server.csprojAssemblyReference.cache
+C:\Users\caoph\Desktop\ProjectTienLen\TienLen-Server-database - lb - bot\TienLen-Server\obj\Debug\TienLen-Server.csproj.CoreCompileInputs.cache
+C:\Users\caoph\Desktop\ProjectTienLen\TienLen-Server-database - lb - bot\TienLen-Server\obj\Debug\TienLen-Server.exe
+C:\Users\caoph\Desktop\ProjectTienLen\TienLen-Server-database - lb - bot\TienLen-Server\obj\Debug\TienLen-Server.pdb

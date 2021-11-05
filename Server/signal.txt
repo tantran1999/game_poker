@@ -1,0 +1,5 @@
+﻿kết nối vào server. 0: ok
+đăng ký/ đăng nhập: 0=> ok; 1=>fail
+chọn phòng: -1=> fail; tcc|username1|username2|username3|un4
+bắt đầu lượt mới: "newturn|" "turn|username"
+gửi bài: 

@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{069FDC00-6096-42AB-9392-360E5E4557C9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>TienLen_Client</RootNamespace>
+    <AssemblyName>TienLen_Client</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu.Core, Version=1.10.0.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9" />
+    <Reference Include="Bunifu.UI.WinForms.BunifuButton">
+      <HintPath>E:\ltmcb\Bunifu Ui Winform 1.10.0.0\Bunifu.UI.WinForms.BunifuButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuLabel">
+      <HintPath>..\..\..\Bunifu Ui Winform 1.10.0.0\Bunifu.UI.WinForms.BunifuLabel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuPictureBox">
+      <HintPath>E:\ltmcb\Bunifu Ui Winform 1.10.0.0\Bunifu.UI.WinForms.BunifuPictureBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuRadioButton">
+      <HintPath>..\..\..\Bunifu Ui Winform 1.10.0.0\Bunifu.UI.WinForms.BunifuRadioButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuTextbox">
+      <HintPath>..\..\..\Bunifu Ui Winform 1.10.0.0\Bunifu.UI.WinForms.BunifuTextbox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuTransition">
+      <HintPath>..\..\..\Bunifu Ui Winform 1.10.0.0\Bunifu.UI.WinForms.BunifuTransition.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.Drawer">
+      <HintPath>E:\ltmcb\Bunifu Ui Winform 1.10.0.0\Bunifu.UI.WinForms.Drawer.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.ToggleSwitch">
+      <HintPath>..\..\..\Bunifu Ui Winform 1.10.0.0\Bunifu.UI.WinForms.ToggleSwitch.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>E:\ltmcb\Bunifu Ui Winform 1.10.0.0\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Card.cs" />
+    <Compile Include="CardType.cs" />
+    <Compile Include="Game.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Game.Designer.cs">
+      <DependentUpon>Game.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LobbyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LobbyForm.Designer.cs">
+      <DependentUpon>LobbyForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Player.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="TCPClient.cs" />
+    <EmbeddedResource Include="Game.resx">
+      <DependentUpon>Game.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LobbyForm.resx">
+      <DependentUpon>LobbyForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\table.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\table.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ban.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconsendms.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\13_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\13_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\13_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\13_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\14_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\14_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\14_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\14_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\15_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\15_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\15_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\15_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\matsau.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\userimage.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

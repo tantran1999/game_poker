@@ -1,0 +1,16 @@
+C:\Users\Tan Tran\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Tan Tran\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Tan Tran\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Tan Tran\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Tan Tran\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Tan Tran\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Tan Tran\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\Tan Tran\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Tan Tran\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Tan Tran\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Tan Tran\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\Tan Tran\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Tan Tran\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Tan Tran\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Tan Tran\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Tan Tran\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Game.resources

@@ -1,0 +1,53 @@
+E:\ltmcb\TienLen_Client(Bunifu)\TienLen_Client\WindowsFormsApp2\obj\Debug\TienLen_Client.csprojAssemblyReference.cache
+E:\ltmcb\TienLen_Client(Bunifu)\TienLen_Client\WindowsFormsApp2\obj\Debug\TienLen_Client.Game.resources
+E:\ltmcb\TienLen_Client(Bunifu)\TienLen_Client\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\ltmcb\TienLen_Client(Bunifu)\TienLen_Client\WindowsFormsApp2\obj\Debug\TienLen_Client.csproj.GenerateResource.cache
+E:\ltmcb\TienLen_Client(Bunifu)\TienLen_Client\WindowsFormsApp2\obj\Debug\TienLen_Client.csproj.CoreCompileInputs.cache
+E:\ltmcb\TienLen_Client(Bunifu)\TienLen_Client\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\ltmcb\TienLen_Client(Bunifu)\TienLen_Client\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\ltmcb\TienLen_Client(Bunifu)\TienLen_Client\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\ltmcb\TienLen_Client(Bunifu)\TienLen_Client\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\ltmcb\TienLen_Client(Bunifu)\TienLen_Client\WindowsFormsApp2\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\ltmcb\TienLen_Client(Bunifu)\TienLen_Client\WindowsFormsApp2\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+E:\ltmcb\TienLen_Client(Bunifu)\TienLen_Client\WindowsFormsApp2\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\ltmcb\TienLen_Client(Bunifu)\TienLen_Client\WindowsFormsApp2\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+E:\ltmcb\TienLen_Client(Bunifu)\TienLen_Client\WindowsFormsApp2\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+E:\ltmcb\TienLen_Client(Bunifu)\TienLen_Client\WindowsFormsApp2\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\ltmcb\TienLen_Client(Bunifu)\TienLen_Client\WindowsFormsApp2\obj\Debug\TienLen_Client.csproj.CopyComplete
+E:\ltmcb\TienLen_Client(Bunifu)\TienLen_Client\WindowsFormsApp2\obj\Debug\TienLen_Client.LobbyForm.resources
+E:\ltmcb\TienLen_Client(Bunifu)\TienLen_Client\WindowsFormsApp2\obj\Debug\TienLen_Client.LoginForm.resources
+E:\ltmcb\TienLen_Client(Bunifu)\TienLen_Client\WindowsFormsApp2\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+E:\ltmcb\TienLen_Client(Bunifu)\TienLen_Client\WindowsFormsApp2\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+E:\ltmcb\TienLen_Client(Bunifu)\TienLen_Client\WindowsFormsApp2\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+E:\ltmcb\TienLen_Client(Bunifu)\TienLen_Client\WindowsFormsApp2\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+E:\ltmcb\TienLen_Client(Bunifu)\TienLen_Client\WindowsFormsApp2\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\ltmcb\TienLen_Client(Bunifu)\TienLen_Client\WindowsFormsApp2\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+E:\ltmcb\TienLen_Client(Bunifu)\TienLen_Client\WindowsFormsApp2\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.dll
+E:\ltmcb\TienLen_Client(Bunifu)\TienLen_Client\WindowsFormsApp2\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.xml
+E:\ltmcb\TienLen_Client(Bunifu)\TienLen_Client\WindowsFormsApp2\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+E:\ltmcb\TienLen_Client(Bunifu)\TienLen_Client\WindowsFormsApp2\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\New folder (3)\TienLen_Client-20190608T060842Z-001\TienLen_Client\WindowsFormsApp2\obj\Debug\TienLen_Client.csprojAssemblyReference.cache
+D:\New folder (3)\TienLen_Client-20190608T060842Z-001\TienLen_Client\WindowsFormsApp2\obj\Debug\TienLen_Client.Game.resources
+D:\New folder (3)\TienLen_Client-20190608T060842Z-001\TienLen_Client\WindowsFormsApp2\obj\Debug\TienLen_Client.LobbyForm.resources
+D:\New folder (3)\TienLen_Client-20190608T060842Z-001\TienLen_Client\WindowsFormsApp2\obj\Debug\TienLen_Client.LoginForm.resources
+D:\New folder (3)\TienLen_Client-20190608T060842Z-001\TienLen_Client\WindowsFormsApp2\obj\Debug\TienLen_Client.Properties.Resources.resources
+D:\New folder (3)\TienLen_Client-20190608T060842Z-001\TienLen_Client\WindowsFormsApp2\obj\Debug\TienLen_Client.csproj.GenerateResource.cache
+D:\New folder (3)\TienLen_Client-20190608T060842Z-001\TienLen_Client\WindowsFormsApp2\obj\Debug\TienLen_Client.csproj.CoreCompileInputs.cache
+D:\New folder (3)\TienLen_Client-20190608T060842Z-001\TienLen_Client\WindowsFormsApp2\bin\Debug\TienLen_Client.exe
+D:\New folder (3)\TienLen_Client-20190608T060842Z-001\TienLen_Client\WindowsFormsApp2\bin\Debug\TienLen_Client.pdb
+D:\New folder (3)\TienLen_Client-20190608T060842Z-001\TienLen_Client\WindowsFormsApp2\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\New folder (3)\TienLen_Client-20190608T060842Z-001\TienLen_Client\WindowsFormsApp2\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\New folder (3)\TienLen_Client-20190608T060842Z-001\TienLen_Client\WindowsFormsApp2\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\New folder (3)\TienLen_Client-20190608T060842Z-001\TienLen_Client\WindowsFormsApp2\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\New folder (3)\TienLen_Client-20190608T060842Z-001\TienLen_Client\WindowsFormsApp2\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\New folder (3)\TienLen_Client-20190608T060842Z-001\TienLen_Client\WindowsFormsApp2\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\New folder (3)\TienLen_Client-20190608T060842Z-001\TienLen_Client\WindowsFormsApp2\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\New folder (3)\TienLen_Client-20190608T060842Z-001\TienLen_Client\WindowsFormsApp2\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\New folder (3)\TienLen_Client-20190608T060842Z-001\TienLen_Client\WindowsFormsApp2\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\New folder (3)\TienLen_Client-20190608T060842Z-001\TienLen_Client\WindowsFormsApp2\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.xml
+D:\New folder (3)\TienLen_Client-20190608T060842Z-001\TienLen_Client\WindowsFormsApp2\bin\Debug\Bunifu_UI_v1.5.3.xml
+D:\New folder (3)\TienLen_Client-20190608T060842Z-001\TienLen_Client\WindowsFormsApp2\obj\Debug\TienLen_Client.csproj.CopyComplete
+D:\New folder (3)\TienLen_Client-20190608T060842Z-001\TienLen_Client\WindowsFormsApp2\obj\Debug\TienLen_Client.exe
+D:\New folder (3)\TienLen_Client-20190608T060842Z-001\TienLen_Client\WindowsFormsApp2\obj\Debug\TienLen_Client.pdb
+D:\New folder (3)\TienLen_Client-20190608T060842Z-001\TienLen_Client\WindowsFormsApp2\bin\Debug\Bunifu.UI.WinForms.Drawer.dll
+D:\New folder (3)\TienLen_Client-20190608T060842Z-001\TienLen_Client\WindowsFormsApp2\bin\Debug\Bunifu.UI.WinForms.Drawer.xml
